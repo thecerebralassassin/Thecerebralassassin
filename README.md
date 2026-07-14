@@ -29,17 +29,10 @@ Passionate about building practical software solutions, automated systems, and c
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Projects
 
-### **Megatron MT5 Forex Algorithmic Bot**
-An algorithmic automation tool built to optimize and execute trading strategies.
-* **Tech:** Python, MQL5, Automated Trading Frameworks
-* **Key Features:** Successfully executed automated test runs on demo profiles to evaluate trading logic and parameters.
-
-### **DondoBudget**
-A sleek personal budgeting web application built to streamline financial tracking.
-* **Tech:** JavaScript, Vercel, Progressive Web App (PWA) Architecture
-* **Key Features:** Fully deployed via Vercel and optimized as an installable Progressive Web App (PWA) on iOS devices.
+### **Coming Soon!** 🚀
+Detailed project showcases and system architectures are currently in the works. In the meantime, please feel free to take a look at my open repositories listed below!
 
 ---
 
