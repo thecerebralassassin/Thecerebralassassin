@@ -1,3 +1,4 @@
+
 # Hi there, I'm Roberto Carlos Dondo 👋
 
 ### Aspiring IT Professional | Algorithmic Developer & Web Creator
@@ -63,3 +64,5 @@ Detailed project showcases, design specifications, and system architectures are 
 ## 📬 Let's Connect!
 
 * **LinkedIn:** [Roberto Carlos Dondo](https://www.linkedin.com/in/roberto-carlos-dondo)
+
+```
